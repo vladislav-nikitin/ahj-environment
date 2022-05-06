@@ -1,5 +1,11 @@
-# Webpack5
+### Continuous Deployment
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
+#### Описание
 
-[Migration Guide](https://webpack.js.org/migrate/5/)
+Воспользуйтесь пошаговой инструкцией к лекции, чтобы развернуть тестирование, сборку и deployment на AppVeyor и GitHub Pages.
+
+В качестве шаблона для развёртывания используйте [проект с лекции](https://github.com/netology-code/ahj-code/tree/master/env).
+
+[![Build status](https://ci.appveyor.com/api/projects/status/f2xyvrl7nc7fbewi?svg=true)](https://ci.appveyor.com/project/vladislav-nikitin/ahj-environment)
+
+https://vladislav-nikitin.github.io/ahj-environment/
